@@ -37,5 +37,5 @@ CLERK_SECRET_KEY=...
 ```bash
 VITE_CLERK_PUBLISHABLE_KEY=...
 ```
-# newspotify
+
 # spotifytest
